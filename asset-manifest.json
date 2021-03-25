@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/superdead/static/css/main.898486c4.chunk.css",
+    "main.js": "/superdead/static/js/main.36c8b104.chunk.js",
+    "main.js.map": "/superdead/static/js/main.36c8b104.chunk.js.map",
+    "runtime-main.js": "/superdead/static/js/runtime-main.d4abc9a1.js",
+    "runtime-main.js.map": "/superdead/static/js/runtime-main.d4abc9a1.js.map",
+    "static/js/2.5fbc6e69.chunk.js": "/superdead/static/js/2.5fbc6e69.chunk.js",
+    "static/js/2.5fbc6e69.chunk.js.map": "/superdead/static/js/2.5fbc6e69.chunk.js.map",
+    "index.html": "/superdead/index.html",
+    "static/css/main.898486c4.chunk.css.map": "/superdead/static/css/main.898486c4.chunk.css.map",
+    "static/js/2.5fbc6e69.chunk.js.LICENSE.txt": "/superdead/static/js/2.5fbc6e69.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/superdead/static/media/cloud.06616fae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4abc9a1.js",
+    "static/js/2.5fbc6e69.chunk.js",
+    "static/css/main.898486c4.chunk.css",
+    "static/js/main.36c8b104.chunk.js"
+  ]
+}
